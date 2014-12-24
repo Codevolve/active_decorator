@@ -2,6 +2,7 @@
 
 A simple and Rubyish view helper for Rails 3 and Rails 4. Keep your helpers and views Object-Oriented!
 
+Forked from [https://github.com/amatsuda/active_decorator](https://github.com/amatsuda/active_decorator)
 
 ## Features ##
 
